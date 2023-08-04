@@ -16,7 +16,7 @@
             <guid isPermalink="true">http://example.com/2023/08/03/spawn%20failed/</guid>
             <title>Hexo部署博客时出现spawn failed问题解决方法</title>
             <link>http://example.com/2023/08/03/spawn%20failed/</link>
-            <category term="bug" scheme="http://example.com/categories/bug/" />
+            <category term="Bug" scheme="http://example.com/categories/Bug/" />
             <category term="解决方法" scheme="http://example.com/tags/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/" />
             <pubDate>Thu, 03 Aug 2023 20:09:58 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;报错信息&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#报错信息&#34;&gt;#&lt;/a&gt; 报错信息&lt;/h2&gt;
@@ -53,7 +53,8 @@
             <guid isPermalink="true">http://example.com/2023/08/01/Codeforce%20Round%20889/</guid>
             <title>Dual (Hard Version)</title>
             <link>http://example.com/2023/08/01/Codeforce%20Round%20889/</link>
-            <category term="Codeforce" scheme="http://example.com/categories/Codeforce/" />
+            <category term="CodeForce" scheme="http://example.com/categories/codeforce/" />
+            <category term="div2 889" scheme="http://example.com/categories/codeforce/div2-889/" />
             <category term="题解" scheme="http://example.com/tags/%E9%A2%98%E8%A7%A3/" />
             <pubDate>Tue, 01 Aug 2023 23:23:59 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jb2RlZm9yY2VzLmNvbS9jb250ZXN0LzE4NTUvcHJvYmxlbS9DMg==&#34;&gt;传送门&lt;/span&gt;&lt;/p&gt;
@@ -86,7 +87,8 @@
             <guid isPermalink="true">http://example.com/2023/08/01/cf%20edu%20152/</guid>
             <title>Binary String Copying</title>
             <link>http://example.com/2023/08/01/cf%20edu%20152/</link>
-            <category term="Codeforce" scheme="http://example.com/categories/Codeforce/" />
+            <category term="CodeForce" scheme="http://example.com/categories/codeforce/" />
+            <category term="edu 152" scheme="http://example.com/categories/codeforce/edu-152/" />
             <category term="题解" scheme="http://example.com/tags/%E9%A2%98%E8%A7%A3/" />
             <pubDate>Tue, 01 Aug 2023 09:20:04 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jb2RlZm9yY2VzLmNvbS9jb250ZXN0LzE4NDkvcHJvYmxlbS9D&#34;&gt;题目链接&lt;/span&gt;&lt;/p&gt;
